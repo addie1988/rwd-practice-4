@@ -181,7 +181,7 @@
     75% {clip: rect(0 489px 411px 487px);}
     100% {clip: rect(0 489px 2px 0);}
 }
-.main-two-content .row {padding: 4rem 40px;margin-left: 0;margin-right: 0;}
+.main-two-content .row {padding: 0 40px 4rem 0;margin-left: 0;margin-right: 0;}
 .main-two-title {text-align: center;padding: 4rem;}
 .main-two-title h6 {margin: 0;font-size: 22px;text-transform: uppercase;}
 .main-two-title p {margin: 0;}
@@ -218,7 +218,7 @@
 }
 
 @media (max-width: 480px) {
-    .main-three-content .row {padding: 1rem 4rem;}
+    .main-three-content .row {padding: 0 4rem;}
     .main-three-content .row .col-3 {flex: 0 0 100%;max-width: 100%;padding-left: 0;padding-right: 0;}
 }
 
